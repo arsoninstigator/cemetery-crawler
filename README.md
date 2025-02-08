@@ -1,5 +1,25 @@
 # cemetery crawler !
-cemetery crawler is my submission for hack club's hackapet ysws. it's a small game that's set in the abandoned graveyard on a dimly lit night. my "pet" is a baby grim reaper (who has grown up in a family of people who were grim reapers before him) with the world's responsibilities on his shoulders but still manage to get into some silly hijinks :D
+cemetery crawler is my submission for hack club's hackapet ysws. it's a small pixel-art arcade game that's set in the abandoned cemetery on a dimly lit night. my "pet" is a grim reaper present in the cemetery and the player is supposed to control him and **collect wandering souls** while **avoiding vengeful spirits.**
+
+## controls 
+- left – move left <br>
+- right – move right <br>
+- reap – swing scythe to collect souls & banish hostile spirits <br>
+
+## gameplay
+- view: third-person, side-scrolling cemetery (reaper in the center, background scrolls). 
+- game setting base: the cemetery scrolls infinitely, with obstacles like tombstones and fog patches to avoid. 
+- souls float across the screen—walk into them to collect. 
+- hostile spirits charge at you—use the reap button to dispel them before they hit! 
+- occasionally, a golden soul appears—catching it slows time or grants temporary invincibility. 
+- the game speeds up as time progresses, making dodging and reaping more challenging as you move up levels.
+
+## win/loss condition
+win: high score based on the number of souls collected.
+lose: if hit by hostile spirits too many times.
 
 ## pixel art
 the pixel art for this was made with a combination of aseprite (windows) and resprite (android)
+
+## credits
+used art from pinterest as inspo for the graveyard, the show [grimm](https://www.imdb.com/title/tt1830617/) for the game idea & claude ai for debugging
