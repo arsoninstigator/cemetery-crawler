@@ -1,6 +1,8 @@
 # cemetery crawler !
 cemetery crawler is my submission for hack club's hackapet ysws. it's a small pixel-art arcade game that's set in the abandoned cemetery on a dimly lit night. my "pet" is a grim reaper present in the cemetery and the player is supposed to control him and **collect wandering souls** while **avoiding vengeful spirits.**
 
+![image](https://github.com/user-attachments/assets/f813879e-275c-46cc-b8be-7e59e7769748)
+
 ## controls 
 - left – move left <br>
 - right – move right <br>
